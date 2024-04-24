@@ -6,6 +6,7 @@ treatment_tags.json
 updateSourceCache.json
 usercache.json
 
+# .minecraft folders
 /.fabric
 /assets
 /bin
@@ -13,7 +14,6 @@ usercache.json
 /crash-reports
 /data
 /downloads
-/essential_mod
 /libraries
 /logs
 /quickPlay
@@ -22,3 +22,14 @@ usercache.json
 /staging
 /versions
 /webcache2
+
+# essential mod folders
+/essential_mod/fabric/1.20.4/essential mod 1.20.4 with fabric and shaders/.fabric
+/essential_mod/fabric/1.20.4/essential mod 1.20.4 with fabric and shaders/config
+/essential_mod/fabric/1.20.4/essential mod 1.20.4 with fabric and shaders/data
+/essential_mod/fabric/1.20.4/essential mod 1.20.4 with fabric and shaders/downloads
+/essential_mod/fabric/1.20.4/essential mod 1.20.4 with fabric and shaders/essential
+/essential_mod/fabric/1.20.4/essential mod 1.20.4 with fabric and shaders/logs
+/essential_mod/fabric/1.20.4/essential mod 1.20.4 with fabric and shaders/saves/test world
+/essential_mod/fabric/1.20.4/essential mod 1.20.4 with fabric and shaders/screenshots
+/essential_mod/fabric/1.20.4/wee-haw
