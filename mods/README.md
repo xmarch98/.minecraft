@@ -11,6 +11,9 @@ in order of install:
 - [BetterF3](https://modrinth.com/mod/betterf3)
 - [Continuity](https://www.curseforge.com/minecraft/mc-mods/continuity)
   - [Indium](https://www.curseforge.com/minecraft/mc-mods/indium)
+
+testing:
+
 - [Pickup Notifier](https://www.curseforge.com/minecraft/mc-mods/pick-up-notifier) (requires *PuzzlesLib* and *Forge Config API Port*)
   - [PuzzlesLib](https://www.curseforge.com/minecraft/mc-mods/puzzles-lib)
   - [Forge Config API Port](https://www.curseforge.com/minecraft/mc-mods/forge-config-api-port-fabric)
