@@ -1,0 +1,4 @@
+/gamemode survival
+/give xmarch98 e
+/give xmarch98 minecraft:elytra
+/give xmarch98 minecraft:firework_rocket 64
