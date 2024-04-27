@@ -2,3 +2,8 @@
 /give xmarch98 e
 /give xmarch98 minecraft:elytra
 /give xmarch98 minecraft:firework_rocket 64
+/give xmarch98 minecraft:elytra
+/give xmarch98 minecraft:firework_rocket 64
+/gamemode c
+/gamemode creative
+/gamemode survival

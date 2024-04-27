@@ -10,7 +10,7 @@ usercache.json
 /.fabric
 /assets
 /bin
-/config
+# /config
 /crash-reports
 /data
 /downloads

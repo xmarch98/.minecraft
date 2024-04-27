@@ -44,8 +44,8 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:3
 renderClouds:"fast"
-resourcePacks:["vanilla","fabric","file/VanillaTweaks_r2.zip"]
-incompatibleResourcePacks:[]
+resourcePacks:["vanilla","fabric","file/VanillaTweaks_r2.zip","file/FreshAnimations_v1.9.zip"]
+incompatibleResourcePacks:["spectrelib","veinmining"]
 lastServer:
 lang:en_us
 soundDevice:""
