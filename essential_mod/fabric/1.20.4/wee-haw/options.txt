@@ -23,12 +23,12 @@ darkMojangStudiosBackground:false
 hideLightningFlashes:false
 hideSplashTexts:false
 mouseSensitivity:0.5
-fov:0.0
+fov:0.75
 screenEffectScale:1.0
 fovEffectScale:1.0
 darknessEffectScale:1.0
-glintSpeed:0.5
-glintStrength:0.75
+glintSpeed:0.10887651490337372
+glintStrength:0.0
 damageTiltStrength:1.0
 highContrast:false
 narratorHotkey:true
@@ -44,7 +44,7 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"false"
-resourcePacks:["vanilla","fabric","file/VanillaTweaks_r2.zip"]
+resourcePacks:["vanilla","fabric","file/VanillaTweaks_r2.zip","file/FreshAnimations_v1.9.zip"]
 incompatibleResourcePacks:["essential"]
 lastServer:
 lang:en_us
@@ -120,6 +120,7 @@ key_key.hotbar.6:key.keyboard.6
 key_key.hotbar.7:key.keyboard.7
 key_key.hotbar.8:key.keyboard.8
 key_key.hotbar.9:key.keyboard.9
+key_key.veinmining.activate.desc:key.keyboard.unknown
 key_iris.keybind.reload:key.keyboard.r
 key_iris.keybind.toggleShaders:key.keyboard.k
 key_iris.keybind.shaderPackSelection:key.keyboard.o

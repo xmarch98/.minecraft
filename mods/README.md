@@ -20,3 +20,4 @@ testing:
 - [Vein Mining](https://www.curseforge.com/minecraft/mc-mods/vein-mining)
 - [Entity Model Features](https://modrinth.com/mod/entity-model-features) (required for the *Fresh Animations* resource pack)
 - [Entity Texture Features](https://modrinth.com/mod/entitytexturefeatures) (required for the *Fresh Animations* resource pack)
+- [MouseTweaks](https://modrinth.com/mod/mouse-tweaks)

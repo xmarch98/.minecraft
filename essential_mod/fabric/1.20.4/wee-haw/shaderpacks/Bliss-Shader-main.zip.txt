@@ -1,0 +1,4 @@
+#Fri May 03 21:35:02 PDT 2024
+Snowy_Winter=true
+Seasons=true
+Start_Season=2
